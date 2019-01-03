@@ -4,18 +4,20 @@
 # Software Dev Project
 - project: Rhythmic Color
   role: Team Member / Programmer  
-  #duration: 2012 &mdash; Present
+  duration:
   url: "https://github.com/irishsheila/SoftwareDevProject3308"
   description: Rhythmic color is a simple rhythm game created as a semester project.
 
 # Data Structures Final
 - project: Labyrinth Game
   role: Programmer
-  #duration: 2007 &mdash; Present
+  duration: 
   url: "https://github.com/dara1429/Rapacchietta_CSCI2270_FinalProject"
   description:  Data structures final project utalizing various basics of the C++ progamming language.
 
 # Data Systems Project
 - project: Aggregation.co Project
+  role: Programmer
+  duration: 
   url: "https://github.com/dara1429/aggregation.co"
   description: Project involving the addition of features (Photos/Video) to a simple news aggregate site via editing a MySQL database backend.
