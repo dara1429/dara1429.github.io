@@ -16,8 +16,8 @@
   description:  Data structures final project utalizing various basics of the C++ progamming language.
 
 # Data Systems Project
-- project: Aggregation.co Project
-  role: Programmer
+- project: HackCU IV Project 
+  role: Team Member / Programmer / Testing
   duration: 
-  url: "https://github.com/dara1429/aggregation.co"
-  description: Project involving the addition of features (Photos/Video) to a simple news aggregate site via editing a MySQL database backend.
+  url: "https://github.com/dara1429/VirtualReality_LeapMotion_Piano"
+  description: Team project for HackCU IV utalizing the Oculous Rift and LeapMotion devices to create a virtual piano.
