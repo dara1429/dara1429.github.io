@@ -1,16 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Software Dev Project
+- project: Rhythmic Color
+  role: Team Member / Programmer  
+  #duration: 2012 &mdash; Present
+  url: "https://github.com/irishsheila/SoftwareDevProject3308"
+  description: Rhythmic color is a simple rhythm game created as a semester project.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Data Structures Final
+- project: Labyrinth Game
+  role: Programmer
+  #duration: 2007 &mdash; Present
+  url: "https://github.com/dara1429/Rapacchietta_CSCI2270_FinalProject"
+  description:  Data structures final project utalizing various basics of the C++ progamming language.
+
+# Data Systems Project
+- project: Aggregation.co Project
+  url: "https://github.com/dara1429/aggregation.co"
+  description: Project involving the addition of features (Photos/Video) to a simple news aggregate site via editing a MySQL database backend.
