@@ -2,16 +2,16 @@
 # CompTIA
 - skill: CompTIA A+ Certification
   description: Career ID - COMP001020335823.
-  certification date: Nov 11th, 2011
 
 # Languages
 - skill: Programming Languages
   description: Most experienced with C, C++, and Python programming languages. 
 
 # Other Skills
-- skill: Other technical/misc Skills
-  description: Highly proficient in Microsoft software including Office and Windows XP,Vista,7,10. 
-   Experienced with IOS and Android.
-   Experienced with Github version control.
-   Strong verbal and written communication skills
+- skill: Technical Skills
+  Programming Languages: C++, C, Python, JavaScript, SQL, Assembly
+  Operating Systems/System Administration: Windows 7/8/10, MacOS, Linux, Android
+  Applications: Microsoft Office 365, Google Docs, Git/GitHub, Atom, Sublime, Unity
+  Virtualization: VMware, Heroku
+  Networking: LAN/WAN, Routing/Switching, DNS, DHCP
 
