@@ -1,11 +1,11 @@
 #Skills
 # Tech Skills
-- skill: Technical Skills
-  description: 
-  description: Operating Systems/System Administration - Windows 7/8/10, MacOS, Linux, Android.
-  description: Applications - Microsoft Office 365, Google Docs, Git/GitHub, Atom, Sublime, Unity.
-  description: Virtualization - VMware, Heroku.
-  description: Networking - LAN/WAN, Routing/Switching, DNS, DHCP.
+- skill: Technical Skills 
+  description: >
+  Operating Systems/System Administration - Windows 7/8/10, MacOS, Linux, Android.
+  Applications - Microsoft Office 365, Google Docs, Git/GitHub, Atom, Sublime, Unity.
+  Virtualization - VMware, Heroku.
+  Networking - LAN/WAN, Routing/Switching, DNS, DHCP.
 
 # Certs
 - skill: CompTIA A+ Certification
