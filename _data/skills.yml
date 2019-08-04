@@ -1,17 +1,17 @@
-# Skills
-# CompTIA
+#Skills
+# Tech Skills
+- skill: Technical Skills
+  description: 
+  Operating Systems/System Administration - Windows 7/8/10, MacOS, Linux, Android.
+  Applications - Microsoft Office 365, Google Docs, Git/GitHub, Atom, Sublime, Unity.
+  Virtualization - VMware, Heroku.
+  Networking - LAN/WAN, Routing/Switching, DNS, DHCP.
+
+# Certs
 - skill: CompTIA A+ Certification
   description: Career ID - COMP001020335823.
 
 # Languages
 - skill: Programming Languages
   description: Most experienced with C, C++, and Python programming languages. 
-
-# Other Skills
-- skill: Technical Skills
-  Programming Languages: C++, C, Python, JavaScript, SQL, Assembly
-  Operating Systems/System Administration: Windows 7/8/10, MacOS, Linux, Android
-  Applications: Microsoft Office 365, Google Docs, Git/GitHub, Atom, Sublime, Unity
-  Virtualization: VMware, Heroku
-  Networking: LAN/WAN, Routing/Switching, DNS, DHCP
 
