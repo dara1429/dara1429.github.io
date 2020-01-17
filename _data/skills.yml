@@ -7,10 +7,13 @@
   description: Microsoft Office 365, Google Docs, Git/GitHub, Atom, Sublime, Unity.
   
 - skill: Virtualization
-  description: VMware, Heroku.
+  description: VMware, Heroku, VirtualBox.
 
 - skill: Networking
-  description: LAN/WAN, Routing/Switching, DNS, DHCP.
+  description: LAN/WAN, Routing/Switching, DNS.
+
+- skill: System Administration
+  description: Active Directory, Okta, Veeam, Exchange, Service Now.
 
 # Certs
 - skill: CompTIA A+ Certification
