@@ -4,20 +4,22 @@
   description: Windows 7/8/10, MacOS, Linux, Android.
 
 - skill: Applications
-  description: Microsoft Office 365, Google Docs, Git/GitHub, Atom, Sublime, Unity.
+  description: Microsoft Office 365, Google Docs, Git/GitHub,  VisualStudio, Unity.
   
 - skill: Virtualization
   description: VMware, Heroku, VirtualBox.
 
 - skill: Networking
-  description: LAN/WAN, Routing/Switching, DNS.
+  description: LAN/WAN, DNS.
 
 - skill: System Administration
-  description: Active Directory, Okta, Veeam, Exchange, Service Now.
+  description: Active Directory, Okta, Veeam, Exchange, Service Now, AvePoint.
 
 # Certs
 - skill: CompTIA A+ Certification
   description: Career ID - COMP001020335823.
+- skill: Azure Fundamentals
+  description: Microsoft Certification ID - 990501063.
 
 # Languages
 - skill: Programming Languages
