@@ -1,0 +1,175 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "Technical Skills",
+    "projects": "Projects",
+    "awards": "Certifications \\ Community Work",
+    "education": "Education",
+    "work": "Work Experience"
+  },
+  "basics": {
+    "name": "Daniel Robert Rapacchietta",
+    "email": "drrapacchietta@gmail.com",
+    "phone": "720-289-0261",
+    "location": {
+      "address": "Arvada, Colorado"
+    },
+    "website": "https://dara1429.github.io/"
+  },
+  "education": [
+    {
+      "location": "Boulder, CO",
+      "studyType": "Bachelor's - ",
+      "endDate": "Dec 2018",
+      "gpa": "3.343",
+      "institution": "University of Colorado Boulder",
+      "area": "Computer Science",
+      "startDate": "Aug 2014"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "highlights": [
+        "Assist with company wide Windows 10 migration project.",
+        "Provide technical assistance to in-office and remote employees via phone, email, and in-person.",
+        "Assist with Service Desk and Infrastructure related projects."
+      ],
+      "company": "RES Americas",
+      "position": "Service Desk Technician",
+      "location": "Broomfield, CO",
+      "startDate": "October 2019",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Setup, repair, and build desktop and laptop computers.",
+        "Diagnosed and resolved issues with Windows/OSX/Android/IOS software. ",
+        "Diagnosed and resolved home router/modem/networking issues."
+      ],
+      "endDate": "Fall 2019",
+      "startDate": "Fall 2017",
+      "location": "Arvada, CO",
+      "position": "Freelance IT Technician/Assistant "
+    },
+    {
+      "highlights": [
+        "Cooked and served food at summer and fall outdoor.",
+        "Setup and take-down for wedding events.",
+        "Transported supplies and equipment to and from events."
+      ],
+      "endDate": "June 2012",
+      "startDate": "June 2010",
+      "location": "Naperville, IL",
+      "position": "Caterer/Server/Cook",
+      "company": "Angeli's Restaurant/Bojo's Catering"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "C++",
+        "Python",
+        "JavaScript",
+        "SQL"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Windows 7/8/10",
+        "Mac OSX",
+        "Linux",
+        "Android"
+      ],
+      "name": "Operating Systems"
+    },
+    {
+      "keywords": [
+        "Microsoft Office 365",
+        "Git/GitHub",
+        "Visual Studio",
+        "PowerShell",
+        "Unity"
+      ],
+      "name": "Applications"
+    },
+    {
+      "keywords": [
+        "VMware",
+        "VirtualBox"
+      ],
+      "name": "Virtualization"
+    },
+    {
+      "keywords": [
+        "TCP/IP",
+        "DNS"
+      ],
+      "name": "Networking"
+    },
+    {
+      "keywords": [
+        "Active Directory",
+        "Okta",
+        "Veeam",
+        "Exchange",
+        "Service Now",
+        "AvePoint"
+      ],
+      "name": "System Administration"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "JavaScript",
+        "C#",
+        "Unity",
+        "Linux Ubuntu"
+      ],
+      "name": "Rhythmic Color",
+      "description": "A simple musical rhythm game that supports in-game chart creation.",
+      "url": "https://github.com/irishsheila/SoftwareDevProject3308"
+    },
+    {
+      "keywords": [
+        "C#",
+        "Unity",
+        "Oculus Rift",
+        "LeapMotion",
+        "Windows 10"
+      ],
+      "name": "HackCU IV Project (Piano)",
+      "description": "Created a virtual reality piano in Unity 3D. Played with Oculus Rift and LeapMotion.",
+      "url": "https://github.com/dara1429/VirtualReality_LeapMotion_Piano"
+    }
+  ],
+  "awards": [
+    {
+      "summary": "Microsoft Certification ID: 990501063",
+      "title": " Azure Fundamentals",
+      "awarder": "Microsoft"
+    },
+    {
+      "title": "A+",
+      "summary": "Career ID: COMP001020335823",
+      "awarder": "CompTIA"
+    },
+    {
+      "title": "St. Elizabeth Seton (Religious Education/Volunteer)",
+      "date": "2003 - 2011",
+      "summary": "Student and Volunteer for St. Elizabeth Seton church. Participated in charity food drives."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
