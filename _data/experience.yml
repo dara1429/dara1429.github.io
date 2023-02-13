@@ -1,13 +1,23 @@
 # IT
 
 - company: RES Americas
+  position: Systems Administrator II
+  duration: 2022 - Present
+  summary: • Manage Microsoft Intune tenant • Mobile Device Management for employees. • Manage company backup systems. • Technical lead on multiple business projects. • Project lead and owner of IT monitoring systems. 
+
+- company: RES Americas
+  position: Systems Administrator I
+  duration: 2020 - 2022
+  summary: • Repair and maintain various data, application, and network systems hosted on-premesis and in the cloud. • Manage Microsoft Azure cloud resources. • Build and maintain Virtual Machines.
+
+- company: RES Americas
   position: Service Desk Technician
-  duration: Fall 2019 - Present
+  duration: 2019 - 2020
   summary: • Assist with company wide Windows 10 migration project. • Provide technical assistance to in-office and remote employees via phone, email, and in-person. • Manage employee accounts through Active Directory.
 
 - company: Freelance Assistant/Technician 
   position: 
-  duration:  Fall 2017 - Fall 2019
+  duration:  2017 - 2019
   summary: • Personal IT services (obtained through University of Colorado). • Work includes the build, repair, and setup of computer and other electronic device systems.
 
 # Jobs
