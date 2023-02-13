@@ -1,19 +1,19 @@
 #Skills
 # Tech Skills
 - skill: Operating Systems 
-  description: Windows 7/8/10, MacOS, Linux, Android.
+  description: Windows 10/11, Android, Linux, iOS, MacOS.
 
 - skill: Applications
-  description: Microsoft Office 365, Google Docs, Git/GitHub,  VisualStudio, Unity.
+  description: Microsoft Office 365, Git/GitHub, VisualStudio Code.
   
 - skill: Virtualization
-  description: VMware, Heroku, VirtualBox.
+  description: VMware, ESXI, VirtualBox, Azure VM.
 
 - skill: Networking
   description: LAN/WAN, DNS.
 
 - skill: System Administration
-  description: Active Directory, Okta, Veeam, Exchange, Service Now, AvePoint.
+  description: Active Directory, Azure AD, Veeam Backup & Replication, Microsoft Exchange, Service Now, AvePoint, SSO, VDI, Endpoint Management.
 
 # Certs
 - skill: CompTIA A+ Certification
@@ -23,5 +23,7 @@
 
 # Languages
 - skill: Programming Languages
-  description: Most experienced with C, C++, and Python programming languages. 
+  description: C, C++, and Python.
+- skill: Scripting Languages
+  description: PowerShell.
 
